@@ -42,7 +42,7 @@ export default function Login() {
           <div className="text-primary">
             <BsFillChatRightTextFill />
           </div>
-          <h1 className="text-2xl font-bold dark:text-slate-200">ZenChat</h1>
+          <h1 className="text-2xl font-bold dark:text-slate-200">Connectly</h1>
         </div>
 
         <div className="flex flex-col items-center gap-1">
@@ -86,7 +86,7 @@ export default function Login() {
               Sign Up
             </Link>
             <br />
-            Crafted with ☕ by Ankit Kumar
+            
           </p>
         </div>
       </div>
